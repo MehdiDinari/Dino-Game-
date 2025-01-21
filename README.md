@@ -1,5 +1,6 @@
 # 🦖 Dino Game - Pygame
 
+
 Welcome to **Dino Game**, a fun and interactive adventure built with **Python** and **Pygame**! Guide your dinosaur through the desert, dodge obstacles, and aim for the highest score. 🚀
 
 ---
